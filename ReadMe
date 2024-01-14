@@ -1,0 +1,3 @@
+Excute following commands
+1. pip install -r requrements.txt
+2. python FizzBuzz_server.py

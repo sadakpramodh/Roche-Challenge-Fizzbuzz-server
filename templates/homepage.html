@@ -1,0 +1,102 @@
+<html>
+    <body>
+        <h1><a href="https://github.com/sadakpramodh/Roche-Challenge-Fizzbuzz-server" target="_new">FizzBuzz API</a></h1>
+
+        <h2>Overview</h2>
+
+        <p>The FizzBuzz API is a RESTful web service that follows the classic FizzBuzz logic. Given number parameters, it returns the FizzBuzz sequence up to a limit, replacing multiples of the numbers with provided strings.</p>
+
+        <p>The API also exposes a statistics endpoint to retrieve usage analytics.</p>
+
+        <h2>Endpoints</h2>
+
+        <h3>GET /fizzbuzz</h3>
+
+        <p>Returns the FizzBuzz sequence based on provided request parameters.</p>
+
+        <p><strong>Parameters</strong></p>
+
+        <ul>
+        <li><code>int1</code> - First number to substitute in sequence</li>
+        <li><code>int2</code> - Second number to substitute in sequence</li>
+        <li><code>str1</code> - String to replace multiples of <code>int1</code></li>
+        <li><code>str2</code> - String to replace multiples of <code>int2</code></li>
+        <li><code>limit</code> - Upper limit of the sequence</li>
+        </ul>
+
+        <p><strong>Response</strong></p>
+
+        <ul>
+        <li>200 OK on success with FizzBuzz sequence as a comma-delimited string</li>
+        <li>400 Bad Request if invalid parameters provided</li>  
+        </ul>
+
+        <p><strong>Example request</strong></p>
+
+        <pre><code>GET /fizzbuzz?int1=3&amp;int2=5&amp;str1=fizz&amp;str2=buzz&amp;limit=16</code></pre>
+
+        <p><strong>Example response</strong></p>  
+
+        <pre><code>"1,2,fizz,4,buzz,fizz,7,8,fizz,buzz,11,fizz,13,14,fizzbuzz,16"</code></pre>
+
+        <h3>GET /stats</h3>
+
+        <p>Retrieves statistics on the most frequent <code>/fizzbuzz</code> request.</p>
+
+        <p><strong>Response</strong></p>
+
+        <ul>
+        <li>200 OK with stats info as JSON</li>
+        <li>500 Error on server error</li>
+        </ul>
+
+        <p><strong>Example response</strong></p>
+
+        <pre><code class="language-json">{
+        "int1": 3,
+        "int2": 5,
+        "str1": "fizz",
+        "str2": "buzz"  
+        "limit": 100,
+        "count": 42  
+        }</code></pre>
+
+        <h2>Architecture</h2>
+
+        <p>The API is built with:</p>
+
+        <ul>
+        <li><strong>Flask</strong> - Python web framework</li>
+        <li><strong>SQLite</strong> - Database for storage and analytics</li>
+        <li><strong>Custom modules</strong> - Input validation, FizzBuzz logic implementation and unit tests</li>
+        <li><strong>Templates</strong> - Basic homepage</li>
+        <li><strong>Logging</strong> - Application logs for debugging</li>
+        </ul>
+
+        <p>The code follows REST principles and OOP for modularity and extensibility. Input validation and error handling ensure stability.</p>
+
+        <h2>Getting Started</h2>  
+
+        <p><strong>Prerequisites:</strong> Python 3.x</p>
+
+        <p><strong>Install:</strong></p>  
+
+        <pre><code>pip install -r requirements.txt</code></pre>
+
+        <p><strong>Run:</strong></p>   
+
+        <pre><code>python FizzBuzz_server.py</code></pre>
+
+        <p>The server will now be live on localhost.</p>
+
+        <p>Let me know if any part of the documentation needs more detail!</p>
+        <h2>Contact Info</h2>
+
+        <p>
+        Email: <a href="mailto:sadakpramodh@outlook.com">sadakpramodh@outlook.com</a><br>
+        Phone: <a href="tel:+919296656962">+91 92966 56962</a><br>
+        GitHub: <a href="https://github.com/sadakpramodh" target="_blank">sadakpramodh (Maduru Sadak Pramodh) · GitHub</a>
+        </p>
+
+    </body>
+</html>

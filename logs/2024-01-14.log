@@ -1,0 +1,359 @@
+2024-01-14 08:13:14,634  * Debugger is active!
+2024-01-14 08:13:14,647  * Debugger PIN: 188-334-156
+2024-01-14 08:13:16,625  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\tomllib\\__init__.py', reloading
+2024-01-14 08:13:16,626  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\__init__.py', reloading
+2024-01-14 08:13:16,626  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\__init__.py', reloading
+2024-01-14 08:13:16,705  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\dom\\__init__.py', reloading
+2024-01-14 08:13:16,705  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\xml\\etree\\__init__.py', reloading
+2024-01-14 08:13:17,247  * Debugger is active!
+2024-01-14 08:13:17,263  * Debugger PIN: 188-334-156
+2024-01-14 08:21:22,541  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 08:21:22,541  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 08:21:22,552  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 08:21:22,552  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 08:21:25,909  * Debugger is active!
+2024-01-14 08:21:25,918  * Debugger PIN: 188-334-156
+2024-01-14 08:27:08,394 127.0.0.1 - - [14/Jan/2024 08:27:08] "GET /stats HTTP/1.1" 200 -
+2024-01-14 08:27:09,501 127.0.0.1 - - [14/Jan/2024 08:27:09] "GET /stats HTTP/1.1" 200 -
+2024-01-14 08:27:10,206 127.0.0.1 - - [14/Jan/2024 08:27:10] "GET /stats HTTP/1.1" 200 -
+2024-01-14 08:27:10,431 127.0.0.1 - - [14/Jan/2024 08:27:10] "GET /stats HTTP/1.1" 200 -
+2024-01-14 08:27:10,650 127.0.0.1 - - [14/Jan/2024 08:27:10] "GET /stats HTTP/1.1" 200 -
+2024-01-14 08:27:10,865 127.0.0.1 - - [14/Jan/2024 08:27:10] "GET /stats HTTP/1.1" 200 -
+2024-01-14 08:27:11,089 127.0.0.1 - - [14/Jan/2024 08:27:11] "GET /stats HTTP/1.1" 200 -
+2024-01-14 08:27:16,591 Invalid parameters - near "limit": syntax error @ 2024-01-14 08:27:16.591965
+2024-01-14 08:27:16,591 127.0.0.1 - - [14/Jan/2024 08:27:16] "[31m[1mGET /fizzbuzz?int1=3&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1[0m" 400 -
+2024-01-14 08:28:32,731  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 08:28:32,740  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 08:28:32,740  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 08:28:32,741  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 08:28:36,340  * Debugger is active!
+2024-01-14 08:28:36,360  * Debugger PIN: 188-334-156
+2024-01-14 08:29:20,152  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 08:29:20,152  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 08:29:20,162  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 08:29:20,163  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 08:29:21,360  * Debugger is active!
+2024-01-14 08:29:21,370  * Debugger PIN: 188-334-156
+2024-01-14 08:30:52,902 127.0.0.1 - - [14/Jan/2024 08:30:52] "GET /fizzbuzz?int1=3&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 08:48:14,128  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 08:48:14,128  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 08:48:14,137  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 08:48:14,137  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 08:48:15,206  * Debugger is active!
+2024-01-14 08:48:15,216  * Debugger PIN: 188-334-156
+2024-01-14 08:50:20,227 127.0.0.1 - - [14/Jan/2024 08:50:20] "GET /fizzbuzz?int1=3&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 08:50:21,553 127.0.0.1 - - [14/Jan/2024 08:50:21] "GET /fizzbuzz?int1=3&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 08:57:19,893 127.0.0.1 - - [14/Jan/2024 08:57:19] "GET /fizzbuzz?int1=3&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 08:57:32,831 127.0.0.1 - - [14/Jan/2024 08:57:32] "GET /fizzbuzz?int1=3&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 09:27:09,551  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:27:09,560  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:27:09,560  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:27:09,561  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:27:10,199  * Debugger is active!
+2024-01-14 09:27:10,208  * Debugger PIN: 188-334-156
+2024-01-14 09:28:39,879  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:28:39,880  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:28:39,889  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:28:39,889  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:28:40,398  * Debugger is active!
+2024-01-14 09:28:40,408  * Debugger PIN: 188-334-156
+2024-01-14 09:28:45,291  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:28:45,300  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:28:45,301  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:28:45,301  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:28:45,904  * Debugger is active!
+2024-01-14 09:28:45,913  * Debugger PIN: 188-334-156
+2024-01-14 09:28:54,180 127.0.0.1 - - [14/Jan/2024 09:28:54] "GET /fizzbuzz?int1=3&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 09:29:59,071 Invalid parameters - no such table: stats @ 2024-01-14 09:29:59.071848
+2024-01-14 09:29:59,072 127.0.0.1 - - [14/Jan/2024 09:29:59] "[31m[1mGET /fizzbuzz?int1=3&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1[0m" 400 -
+2024-01-14 09:30:29,079 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-14 09:30:29,080 [33mPress CTRL+C to quit[0m
+2024-01-14 09:30:29,089  * Restarting with watchdog (windowsapi)
+2024-01-14 09:30:29,466  * Debugger is active!
+2024-01-14 09:30:29,475  * Debugger PIN: 188-334-156
+2024-01-14 09:30:40,420 127.0.0.1 - - [14/Jan/2024 09:30:40] "GET /fizzbuzz?int1=3&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 09:30:42,323 127.0.0.1 - - [14/Jan/2024 09:30:42] "GET /fizzbuzz?int1=3&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 09:31:34,181 127.0.0.1 - - [14/Jan/2024 09:31:34] "GET /fizzbuzz?int1=3&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 09:31:35,425 127.0.0.1 - - [14/Jan/2024 09:31:35] "GET /fizzbuzz?int1=3&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 09:32:02,126 127.0.0.1 - - [14/Jan/2024 09:32:02] "GET /fizzbuzz?int1=4&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 09:32:25,804 127.0.0.1 - - [14/Jan/2024 09:32:25] "GET /fizzbuzz?int1=4&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 09:32:46,224  * Detected change in 'C:\\Users\\sadak\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\flask\\app.py', reloading
+2024-01-14 09:32:46,239 127.0.0.1 - - [14/Jan/2024 09:32:46] "[35m[1mGET /stats HTTP/1.1[0m" 500 -
+2024-01-14 09:32:46,663  * Restarting with watchdog (windowsapi)
+2024-01-14 09:32:47,039  * Debugger is active!
+2024-01-14 09:32:47,048  * Debugger PIN: 188-334-156
+2024-01-14 09:34:43,577  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:34:43,588  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:34:43,588  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:34:43,589  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:34:44,040  * Restarting with watchdog (windowsapi)
+2024-01-14 09:34:44,425  * Debugger is active!
+2024-01-14 09:34:44,434  * Debugger PIN: 188-334-156
+2024-01-14 09:35:22,604  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:35:22,613  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:35:22,816  * Restarting with watchdog (windowsapi)
+2024-01-14 09:35:23,198  * Debugger is active!
+2024-01-14 09:35:23,210  * Debugger PIN: 188-334-156
+2024-01-14 09:36:14,046 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-14 09:36:14,046 [33mPress CTRL+C to quit[0m
+2024-01-14 09:36:14,054  * Restarting with watchdog (windowsapi)
+2024-01-14 09:36:14,448  * Debugger is active!
+2024-01-14 09:36:14,458  * Debugger PIN: 188-334-156
+2024-01-14 09:36:28,910 127.0.0.1 - - [14/Jan/2024 09:36:28] "[35m[1mGET /stats HTTP/1.1[0m" 500 -
+2024-01-14 09:37:50,984 127.0.0.1 - - [14/Jan/2024 09:37:50] "[35m[1mGET /stats HTTP/1.1[0m" 500 -
+2024-01-14 09:39:04,888 127.0.0.1 - - [14/Jan/2024 09:39:04] "GET /fizzbuzz?int1=3&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 09:39:13,836 127.0.0.1 - - [14/Jan/2024 09:39:13] "GET /stats HTTP/1.1" 200 -
+2024-01-14 09:39:27,090 127.0.0.1 - - [14/Jan/2024 09:39:27] "GET /fizzbuzz?int1=3&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 09:39:28,810 127.0.0.1 - - [14/Jan/2024 09:39:28] "GET /fizzbuzz?int1=3&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 09:39:29,762 127.0.0.1 - - [14/Jan/2024 09:39:29] "GET /fizzbuzz?int1=3&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 09:39:36,490 127.0.0.1 - - [14/Jan/2024 09:39:36] "GET /fizzbuzz?int1=6&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 09:39:37,266 127.0.0.1 - - [14/Jan/2024 09:39:37] "GET /fizzbuzz?int1=6&int2=5&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 09:39:48,063 127.0.0.1 - - [14/Jan/2024 09:39:48] "GET /fizzbuzz?int1=3&int2=7&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 09:39:48,663 127.0.0.1 - - [14/Jan/2024 09:39:48] "GET /fizzbuzz?int1=3&int2=7&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 09:39:49,332 127.0.0.1 - - [14/Jan/2024 09:39:49] "GET /fizzbuzz?int1=3&int2=7&str1=Fizz&str2=Buzz&limit=50 HTTP/1.1" 200 -
+2024-01-14 09:39:57,674 127.0.0.1 - - [14/Jan/2024 09:39:57] "GET /stats HTTP/1.1" 200 -
+2024-01-14 09:42:12,687  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:42:12,697  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:42:12,697  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:42:12,698  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:42:13,487  * Restarting with watchdog (windowsapi)
+2024-01-14 09:42:13,888  * Debugger is active!
+2024-01-14 09:42:13,898  * Debugger PIN: 188-334-156
+2024-01-14 09:42:20,060 127.0.0.1 - - [14/Jan/2024 09:42:20] "GET /stats HTTP/1.1" 200 -
+2024-01-14 09:42:20,818 127.0.0.1 - - [14/Jan/2024 09:42:20] "GET /stats HTTP/1.1" 200 -
+2024-01-14 09:42:21,394 127.0.0.1 - - [14/Jan/2024 09:42:21] "GET /stats HTTP/1.1" 200 -
+2024-01-14 09:47:30,045  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:47:30,055  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:47:30,055  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:47:30,056  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 09:47:30,651  * Restarting with watchdog (windowsapi)
+2024-01-14 09:47:31,077  * Debugger is active!
+2024-01-14 09:47:31,088  * Debugger PIN: 188-334-156
+2024-01-14 09:49:07,385  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\homepage.py', reloading
+2024-01-14 09:49:07,907  * Restarting with watchdog (windowsapi)
+2024-01-14 09:49:08,375  * Debugger is active!
+2024-01-14 09:49:08,389  * Debugger PIN: 188-334-156
+2024-01-14 11:19:11,422  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\homepage.py', reloading
+2024-01-14 11:19:12,144  * Restarting with watchdog (windowsapi)
+2024-01-14 11:19:12,658  * Debugger is active!
+2024-01-14 11:19:12,670  * Debugger PIN: 188-334-156
+2024-01-14 11:22:17,567 127.0.0.1 - - [14/Jan/2024 11:22:17] "GET / HTTP/1.1" 200 -
+2024-01-14 11:22:32,091  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 11:22:32,091  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 11:22:32,092  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 11:22:32,092  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 11:22:32,608  * Restarting with watchdog (windowsapi)
+2024-01-14 11:22:32,995  * Debugger is active!
+2024-01-14 11:22:33,005  * Debugger PIN: 188-334-156
+2024-01-14 11:22:42,765 127.0.0.1 - - [14/Jan/2024 11:22:42] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-01-14 11:25:04,211  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 11:25:04,211  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 11:25:04,212  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 11:25:04,212  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\FizzBuzz_server.py', reloading
+2024-01-14 11:25:04,386  * Restarting with watchdog (windowsapi)
+2024-01-14 11:25:04,789  * Debugger is active!
+2024-01-14 11:25:04,800  * Debugger PIN: 188-334-156
+2024-01-14 11:25:07,368 127.0.0.1 - - [14/Jan/2024 11:25:07] "GET / HTTP/1.1" 200 -
+2024-01-14 11:30:24,319 127.0.0.1 - - [14/Jan/2024 11:30:24] "GET / HTTP/1.1" 200 -
+2024-01-14 11:43:45,773  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\unittest.py', reloading
+2024-01-14 11:43:46,203  * Restarting with watchdog (windowsapi)
+2024-01-14 11:43:46,756  * Debugger is active!
+2024-01-14 11:43:46,769  * Debugger PIN: 188-334-156
+2024-01-14 11:44:08,494  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\unittest.py', reloading
+2024-01-14 11:44:08,503  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\unittest.py', reloading
+2024-01-14 11:44:09,023  * Restarting with watchdog (windowsapi)
+2024-01-14 11:44:09,403  * Debugger is active!
+2024-01-14 11:44:09,412  * Debugger PIN: 188-334-156
+2024-01-14 11:46:43,556  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\unittest.py', reloading
+2024-01-14 11:46:43,566  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\unittest.py', reloading
+2024-01-14 11:46:43,566  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\unittest.py', reloading
+2024-01-14 11:46:43,567  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\unittest.py', reloading
+2024-01-14 11:46:43,725  * Restarting with watchdog (windowsapi)
+2024-01-14 11:46:44,100  * Debugger is active!
+2024-01-14 11:46:44,109  * Debugger PIN: 188-334-156
+2024-01-14 11:48:19,553  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\unittest.py', reloading
+2024-01-14 11:48:19,554  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\unittest.py', reloading
+2024-01-14 11:48:19,563  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\unittest.py', reloading
+2024-01-14 11:48:19,563  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\unittest.py', reloading
+2024-01-14 11:48:19,986  * Restarting with watchdog (windowsapi)
+2024-01-14 11:48:20,414  * Debugger is active!
+2024-01-14 11:48:20,425  * Debugger PIN: 188-334-156
+2024-01-14 11:49:11,296  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\optparse.py', reloading
+2024-01-14 11:49:11,326  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\glob.py', reloading
+2024-01-14 11:49:11,338  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\glob.py', reloading
+2024-01-14 11:49:11,586  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\logging\\handlers.py', reloading
+2024-01-14 11:49:11,660  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\colorsys.py', reloading
+2024-01-14 11:49:11,672  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\colorsys.py', reloading
+2024-01-14 11:49:11,734  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\configparser.py', reloading
+2024-01-14 11:49:11,748  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\configparser.py', reloading
+2024-01-14 11:49:11,900  * Restarting with watchdog (windowsapi)
+2024-01-14 11:49:12,359  * Debugger is active!
+2024-01-14 11:49:12,368  * Debugger PIN: 188-334-156
+2024-01-14 11:49:12,805  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\http\\cookiejar.py', reloading
+2024-01-14 11:49:12,827  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\http\\cookies.py', reloading
+2024-01-14 11:49:12,918  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\readers.py', reloading
+2024-01-14 11:49:12,929  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\readers.py', reloading
+2024-01-14 11:49:12,941  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\readers.py', reloading
+2024-01-14 11:49:12,952  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\importlib\\resources\\_itertools.py', reloading
+2024-01-14 11:49:13,108  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\shlex.py', reloading
+2024-01-14 11:49:13,121  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\shlex.py', reloading
+2024-01-14 11:49:13,190  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\logging\\config.py', reloading
+2024-01-14 11:49:13,276  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\html\\parser.py', reloading
+2024-01-14 11:49:13,290  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\_markupbase.py', reloading
+2024-01-14 11:49:13,449  * Restarting with watchdog (windowsapi)
+2024-01-14 11:49:13,894  * Debugger is active!
+2024-01-14 11:49:13,905  * Debugger PIN: 188-334-156
+2024-01-14 11:49:14,084  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\cp437.py', reloading
+2024-01-14 11:49:14,088  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\cp437.py', reloading
+2024-01-14 11:49:14,112  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\plistlib.py', reloading
+2024-01-14 11:49:14,290  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\netrc.py', reloading
+2024-01-14 11:49:14,302  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\netrc.py', reloading
+2024-01-14 11:49:14,992  * Restarting with watchdog (windowsapi)
+2024-01-14 11:49:15,422  * Debugger is active!
+2024-01-14 11:49:15,433  * Debugger PIN: 188-334-156
+2024-01-14 11:49:31,348  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\distutils\\__init__.py', reloading
+2024-01-14 11:49:31,353  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\idlelib\\__init__.py', reloading
+2024-01-14 11:49:31,358  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\lib2to3\\__init__.py', reloading
+2024-01-14 11:49:31,364  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\turtledemo\\__init__.py', reloading
+2024-01-14 11:49:31,371  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\wsgiref\\__init__.py', reloading
+2024-01-14 11:49:31,377  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\__phello__\\__init__.py', reloading
+2024-01-14 11:49:31,695  * Restarting with watchdog (windowsapi)
+2024-01-14 11:49:32,275  * Debugger is active!
+2024-01-14 11:49:32,286  * Debugger PIN: 188-334-156
+2024-01-14 11:49:41,914  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\__init__.py', reloading
+2024-01-14 11:49:42,429  * Restarting with watchdog (windowsapi)
+2024-01-14 11:49:42,820  * Debugger is active!
+2024-01-14 11:49:42,830  * Debugger PIN: 188-334-156
+2024-01-14 11:51:40,844  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\unittest.py', reloading
+2024-01-14 11:51:40,844  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:51:40,845  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:51:41,047  * Restarting with watchdog (windowsapi)
+2024-01-14 11:51:41,724  * Debugger is active!
+2024-01-14 11:51:41,737  * Debugger PIN: 188-334-156
+2024-01-14 11:51:49,758  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:51:49,759  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:51:49,767  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:51:49,767  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:51:49,903  * Restarting with watchdog (windowsapi)
+2024-01-14 11:51:50,307  * Debugger is active!
+2024-01-14 11:51:50,319  * Debugger PIN: 188-334-156
+2024-01-14 11:54:26,416  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:54:26,426  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:54:26,427  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:54:26,427  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:54:26,651  * Restarting with watchdog (windowsapi)
+2024-01-14 11:54:27,036  * Debugger is active!
+2024-01-14 11:54:27,049  * Debugger PIN: 188-334-156
+2024-01-14 11:55:25,014  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\case.py', reloading
+2024-01-14 11:55:25,024  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\case.py', reloading
+2024-01-14 11:55:25,595  * Restarting with watchdog (windowsapi)
+2024-01-14 11:55:25,991  * Debugger is active!
+2024-01-14 11:55:26,002  * Debugger PIN: 188-334-156
+2024-01-14 11:55:41,003  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:55:41,012  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:55:41,013  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:55:41,013  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:55:41,199  * Restarting with watchdog (windowsapi)
+2024-01-14 11:55:41,585  * Debugger is active!
+2024-01-14 11:55:41,594  * Debugger PIN: 188-334-156
+2024-01-14 11:58:49,933  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:58:49,943  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:58:49,944  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:58:49,944  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:58:50,203  * Restarting with watchdog (windowsapi)
+2024-01-14 11:58:50,593  * Debugger is active!
+2024-01-14 11:58:50,603  * Debugger PIN: 188-334-156
+2024-01-14 11:59:00,921  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2032.0_x64__qbz5n2kfra8p0\\Lib\\symtable.py', reloading
+2024-01-14 11:59:01,778  * Restarting with watchdog (windowsapi)
+2024-01-14 11:59:02,262  * Debugger is active!
+2024-01-14 11:59:02,273  * Debugger PIN: 188-334-156
+2024-01-14 11:59:08,263  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:59:08,273  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:59:08,273  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:59:08,274  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:59:08,398  * Restarting with watchdog (windowsapi)
+2024-01-14 11:59:08,774  * Debugger is active!
+2024-01-14 11:59:08,783  * Debugger PIN: 188-334-156
+2024-01-14 11:59:49,949  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:59:49,958  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:59:49,959  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:59:49,959  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 11:59:50,180  * Restarting with watchdog (windowsapi)
+2024-01-14 11:59:50,562  * Debugger is active!
+2024-01-14 11:59:50,572  * Debugger PIN: 188-334-156
+2024-01-14 12:00:18,627  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\__init__.py', reloading
+2024-01-14 12:00:18,862  * Restarting with watchdog (windowsapi)
+2024-01-14 12:00:19,384  * Debugger is active!
+2024-01-14 12:00:19,395  * Debugger PIN: 188-334-156
+2024-01-14 12:00:51,444  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 12:00:51,455  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 12:00:51,455  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 12:00:51,456  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 12:00:51,755  * Restarting with watchdog (windowsapi)
+2024-01-14 12:00:52,139  * Debugger is active!
+2024-01-14 12:00:52,149  * Debugger PIN: 188-334-156
+2024-01-14 12:01:11,817  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 12:01:11,817  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 12:01:11,827  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 12:01:11,827  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 12:01:12,388  * Restarting with watchdog (windowsapi)
+2024-01-14 12:01:12,760  * Debugger is active!
+2024-01-14 12:01:12,769  * Debugger PIN: 188-334-156
+2024-01-14 12:01:23,277  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 12:01:23,286  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 12:01:23,286  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 12:01:23,942  * Restarting with watchdog (windowsapi)
+2024-01-14 12:01:24,377  * Debugger is active!
+2024-01-14 12:01:24,388  * Debugger PIN: 188-334-156
+2024-01-14 12:34:09,699 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-14 12:34:09,701 [33mPress CTRL+C to quit[0m
+2024-01-14 12:34:09,709  * Restarting with stat
+2024-01-14 12:34:10,056  * Debugger is active!
+2024-01-14 12:34:10,069  * Debugger PIN: 132-286-939
+2024-01-14 12:35:08,910 127.0.0.1 - - [14/Jan/2024 12:35:08] "GET / HTTP/1.1" 200 -
+2024-01-14 12:35:10,887 127.0.0.1 - - [14/Jan/2024 12:35:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-01-14 12:35:32,196  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 12:35:32,228  * Restarting with stat
+2024-01-14 12:35:32,596  * Debugger is active!
+2024-01-14 12:35:32,609  * Debugger PIN: 132-286-939
+2024-01-14 12:36:33,481  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 12:36:33,522  * Restarting with stat
+2024-01-14 12:36:33,984  * Debugger is active!
+2024-01-14 12:36:34,000  * Debugger PIN: 132-286-939
+2024-01-14 12:38:21,055  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 12:38:21,089  * Restarting with stat
+2024-01-14 12:38:21,496  * Debugger is active!
+2024-01-14 12:38:21,512  * Debugger PIN: 132-286-939
+2024-01-14 12:38:42,333 127.0.0.1 - - [14/Jan/2024 12:38:42] "GET / HTTP/1.1" 200 -
+2024-01-14 12:39:06,028 Invalid parameters - int() argument must be a string, a bytes-like object or a real number, not 'NoneType' @ 2024-01-14 12:39:06.028595
+2024-01-14 12:39:06,029 127.0.0.1 - - [14/Jan/2024 12:39:06] "[31m[1mGET /fizzbuzz?7,9,100,fizz,buzz HTTP/1.1[0m" 400 -
+2024-01-14 12:41:00,765  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 12:41:00,801  * Restarting with stat
+2024-01-14 12:41:01,199  * Debugger is active!
+2024-01-14 12:41:01,215  * Debugger PIN: 132-286-939
+2024-01-14 12:49:34,184  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 12:49:34,225  * Restarting with stat
+2024-01-14 12:49:34,809  * Debugger is active!
+2024-01-14 12:49:34,840  * Debugger PIN: 132-286-939
+2024-01-14 13:17:16,447  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\utils\\logger.py', reloading
+2024-01-14 13:17:16,482  * Restarting with stat
+2024-01-14 13:28:58,543 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-14 13:28:58,543 [33mPress CTRL+C to quit[0m
+2024-01-14 13:28:58,548  * Restarting with stat
+2024-01-14 13:28:58,907  * Debugger is active!
+2024-01-14 13:28:58,921  * Debugger PIN: 132-286-939
+2024-01-14 13:29:09,672 127.0.0.1 - - [14/Jan/2024 13:29:09] "GET /stats HTTP/1.1" 200 -
+2024-01-14 17:12:25,030  * Detected change in 'C:\\Users\\sadak\\Downloads\\Roche Challenge-Fizzbuzz-server\\tests\\unittest.py', reloading
+2024-01-14 17:12:25,124  * Restarting with stat
+2024-01-14 17:12:31,734  * Debugger is active!
+2024-01-14 17:12:31,800  * Debugger PIN: 132-286-939
+2024-01-14 17:57:06,775 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-01-14 17:57:06,775 [33mPress CTRL+C to quit[0m
+2024-01-14 17:57:30,590 127.0.0.1 - - [14/Jan/2024 17:57:30] "GET / HTTP/1.1" 200 -
+2024-01-14 18:02:25,413 127.0.0.1 - - [14/Jan/2024 18:02:25] "GET / HTTP/1.1" 200 -
+2024-01-14 18:05:12,747 127.0.0.1 - - [14/Jan/2024 18:05:12] "GET / HTTP/1.1" 200 -
