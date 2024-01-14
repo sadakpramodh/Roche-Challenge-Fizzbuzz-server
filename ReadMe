@@ -1,3 +1,5 @@
 Excute following commands
 1. pip install -r requrements.txt
 2. python FizzBuzz_server.py
+
+Once you run the server documentation will display in Homepage!
